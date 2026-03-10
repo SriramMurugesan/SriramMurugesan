@@ -119,6 +119,15 @@ FastAPI • PostgreSQL • SQLAlchemy • Redis • Docker
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/SriramMurugesan)
 
 ---
+## 📊 GitHub Stats
+
+![Sriram's GitHub stats](https://github-readme-stats.vercel.app/api?username=SriramMurugesan&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SriramMurugesan&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SriramMurugesan&theme=github-dark)
+
+---
 
 ## 🎯 Fun Fact
 
