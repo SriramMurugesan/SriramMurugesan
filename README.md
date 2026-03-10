@@ -1,51 +1,129 @@
-# Hey there, I'm Sriram Murugesan 👋
+# 👋 Hey there, I'm Sriram Murugesan
 
-### Junior Software Developer @ Articence | Backend Enthusiast | MCP Integrations Specialist
+### Backend & AI Engineer | Python | FastAPI | RAG | Microservices
 
 ---
 
 ## 💻 About Me
-I’m passionate about crafting efficient, scalable backend solutions using Python and modern frameworks like FastAPI and Flask.  
-Specializing in MCP integrations, I enjoy turning complex challenges into elegant, maintainable code. Constantly learning and growing in the backend ecosystem is what drives me.
+
+Backend and AI Engineer with **2.5+ years of experience** building scalable backend systems and AI-powered applications.
+
+I specialize in **Python backend development using FastAPI, Flask, and Django**, with experience designing **REST APIs, microservices, and database-driven systems**.
+
+Recently, I have been working on **AI-powered knowledge systems using Retrieval-Augmented Generation (RAG), vector databases, and transformer models** to enable intelligent document search and contextual responses.
+
+I enjoy solving complex backend problems and building reliable systems that combine **modern AI capabilities with scalable backend architectures**.
 
 ---
 
 ## 🚀 Skills & Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)  
-![PL/SQL](https://img.shields.io/badge/PL--SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white&style=for-the-badge)  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)  
-![REST API](https://img.shields.io/badge/REST_API-61DAFB?logo=rest-api&logoColor=black&style=for-the-badge)  
-![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)  
-![Celery](https://img.shields.io/badge/Celery-3776AB?logo=celery&logoColor=white&style=for-the-badge)  
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
 
 ---
 
-## 🔧 Favorite Project
+### Backend Development
 
-### [fast-mcp-client](https://github.com/SriramMurugesan/fast-mcp-client)  
-A powerful, streamlined client for seamless MCP integration — designed for efficiency and scalability in backend workflows.
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-61DAFB?style=for-the-badge)
+
+---
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
+
+---
+
+### AI & Machine Learning
+
+![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge)
+![Vector_DB](https://img.shields.io/badge/Vector_Database-6A5ACD?style=for-the-badge)
+![Deep_Learning](https://img.shields.io/badge/Deep_Learning-CNN/RNN-blue?style=for-the-badge)
+
+---
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
+
+---
+
+## 🔧 Featured Projects
+
+### 🧠 AI Knowledge Assistant (RAG System)
+
+AI-powered knowledge assistant that answers questions from custom documents using **Retrieval-Augmented Generation (RAG)**.
+
+Key features:
+
+- Document ingestion pipeline for PDFs and text files  
+- Embedding generation using transformer models  
+- Vector search using Qdrant  
+- Context retrieval for accurate LLM responses  
+- FastAPI backend for query processing  
+
+Tech Stack:  
+Python • FastAPI • Transformers • Vector DB (Qdrant) • Docker  
+
+🔗 https://github.com/SriramMurugesan/AI_teacheer
+
+---
+
+### ⚙️ Resource Management System (FastAPI Backend)
+
+A scalable backend system built with **FastAPI** to manage application resources through REST APIs.
+
+Key features:
+
+- RESTful API architecture  
+- PostgreSQL database integration  
+- SQLAlchemy ORM for data modeling  
+- Redis caching for improved performance  
+- Docker containerized deployment  
+
+Tech Stack:  
+FastAPI • PostgreSQL • SQLAlchemy • Redis • Docker  
+
+🔗 https://github.com/SriramMurugesan/fastapi_app
+
+---
+
+## ⚡ Current Focus
+
+- AI-powered backend systems  
+- Retrieval-Augmented Generation (RAG)  
+- FastAPI microservices  
+- Vector database integrations  
+- Scalable backend architectures
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/srirammurugesanm/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/srirammurugesanm/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/SriramMurugesan)
 
 ---
 
-## 🎯 Fun Fact & Hobbies  
-When I’m not coding, I love playing chess, exploring new cuisines, and tuning into good music.
+## 🎯 Fun Fact
+
+When I’m not coding, I enjoy **playing chess, exploring new cuisines, and listening to music**.
 
 ---
 
-Thanks for stopping by — let’s build something amazing! 🚀
+⭐ Always excited to collaborate on **backend engineering and AI projects**!
