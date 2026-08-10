@@ -6,7 +6,7 @@
 
 ## 💻 About Me
 
-Backend and AI Engineer with **2.5+ years of experience** building scalable backend systems and AI-powered applications.
+Backend and AI Engineer with **3.5+ years of experience** building scalable backend systems and AI-powered applications.
 
 I specialize in **Python backend development using FastAPI, Flask, and Django**, with experience designing **REST APIs, microservices, and database-driven systems**.
 
